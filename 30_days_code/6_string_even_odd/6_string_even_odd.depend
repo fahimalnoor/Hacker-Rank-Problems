@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609019293 source:c:\users\fahim\documents\hacker rank\30 days code\6_string_even_odd\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
