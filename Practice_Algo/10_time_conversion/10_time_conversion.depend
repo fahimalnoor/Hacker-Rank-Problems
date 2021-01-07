@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609024455 source:c:\users\fahim\documents\hacker rank\practice_algo\10_time_conversion\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	<sstream>
+
